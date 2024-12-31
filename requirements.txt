@@ -1,0 +1,6 @@
+fastapi
+mangum
+yfinance
+typing
+pandas
+uvicorn
